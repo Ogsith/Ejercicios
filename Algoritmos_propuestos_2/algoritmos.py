@@ -1,14 +1,5 @@
 import time
 
-print(" _________________________________________________")
-print(" |      Integrantes del Grupo       |    Código  |")
-print(" |__________________________________|____________|")       
-print(" |Anthony Gianpierre Terrazas Tello | PT77091210 |")
-print(" |Jose Luis Bautista Trujillo       | PT75087473 |")
-print(" |Fabrizio Alonso Solis López       | PT72674443 |")
-print(" |Luis Angel Barboza Giraldo        | PT72935564 |")      
-print(" -------------------------------------------------")
-
 print("\n                         - PROBLEMA 01 -                      ") 
 print(".......................Dia Correspondiente......................\n")
 
