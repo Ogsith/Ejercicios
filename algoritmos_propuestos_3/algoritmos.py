@@ -2,16 +2,6 @@ from random import randint
 import os
 import time
 
-print(" _________________________________________________")
-print(" |      Integrantes del Grupo       |    Código  |")
-print(" |__________________________________|____________|")
-print(" |Anthony Gianpierre Terrazas Tello | PT77091210 |")
-print(" |Jose Luis Bautista Trujillo       | PT75087473 |")
-print(" |Fabrizio Alonso Solis López       | PT72674443 |")
-print(" |Luis Angel Barboza Giraldo        | PT72935564 |")
-print(" |Luis Neyra Huisa                  | PT72387290 |") 
-print(" -------------------------------------------------\n")
-
 print("                       - PROBLEMA 01 -                      ") 
 print(".......................Teclado a Ascci......................\n")
 
